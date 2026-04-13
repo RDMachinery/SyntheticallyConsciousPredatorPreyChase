@@ -1,5 +1,7 @@
 # Predator / Prey — Synthetic Mind Demo
 
+![Alt text](predator_prey_screenshot.jpeg)
+
 A Java Swing simulation of predator/prey pursuit where both agents run Igor Aleksander's Five Axioms of Synthetic Mind, with visible attention cones that shift direction and width based on each agent's live affective state.
 
 ![Java](https://img.shields.io/badge/Java-17%2B-orange) ![Swing](https://img.shields.io/badge/UI-Java%20Swing-blue) ![License](https://img.shields.io/badge/license-MIT-green)
